@@ -26,3 +26,15 @@ Run the Rails application:
 ```
 rails server
 ```
+
+
+
+
+
+
+
+
+
+## Rails Assets Issue Page
+
+Please see issue [280](https://github.com/rails-assets/rails-assets/issues/280) on the Rails Assets project page on GitHub for updates.
