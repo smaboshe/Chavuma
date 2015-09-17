@@ -26,15 +26,3 @@ Run the Rails application:
 ```
 rails server
 ```
-
-
-
-
-
-
-
-
-
-## BrowserSync Issue Page
-
-Please see issue [825](https://github.com/BrowserSync/browser-sync/issues/825) on the BrowserSync project page on GitHub for updates.
