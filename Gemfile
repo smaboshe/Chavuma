@@ -39,6 +39,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# Static pages
+gem 'high_voltage', '~> 2.4.0'
+
 
 
 
